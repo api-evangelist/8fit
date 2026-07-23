@@ -1,0 +1,16 @@
+generated: '2026-07-17'
+method: probed
+source: probed https://8fit.com/.well-known/*
+host: 8fit.com
+endpoints:
+- path: /.well-known/security.txt
+  status: 200
+  file: 8fit-security.txt
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404

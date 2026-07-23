@@ -1,7 +1,29 @@
 aid: 8fit
 name: 8fit
-description: '8fit is a company surfaced as a portfolio company of creandum and added to the API Evangelist
-  network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  8fit is a consumer health and fitness application offering personalized home
+  workout programs (HIIT, boxing, Pilates, yoga, and meditation), custom healthy
+  meal and nutrition plans, and holistic wellness guidance built around
+  sustainable habit-building rather than quick fixes. Founded in Berlin and
+  surfaced in the API Evangelist network as a portfolio company of Creandum, 8fit
+  reached more than 40 million downloads before being acquired by Withings
+  (a Gilde Healthcare portfolio company) in February 2022. Withings announced the
+  discontinuation of the standalone 8fit app effective June 26, 2026, folding its
+  nutrition and activity content into the Withings app and Withings+ service. 8fit
+  is a mobile/web consumer app and does not publish a public developer API; this
+  profile captures its public web, security, and identity surface.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://images.ctfassets.net/90pc6zknij8o/QKISIkVdSR3h8d2wmF2tc/62dc9226c81562cffdd0a4418fe69904/web_link_image.png
 url: https://raw.githubusercontent.com/api-evangelist/8fit/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,15 +31,56 @@ x-backed-by:
 - creandum
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: acquired
+x-acquired-by: withings
+x-acquired-date: '2022-02-02'
+x-sunset-date: '2026-06-26'
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
 - Consumer
+- Fitness
+- Health
+- Wellness
+- Nutrition
+- Mobile App
 apis: []
+common:
+- type: VulnerabilityDisclosure
+  url: security/8fit-vulnerability-disclosure.yml
+- type: Security
+  url: security/8fit-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/8fit-domain-security.yml
+- type: WellKnown
+  url: well-known/8fit-well-known.yml
+- type: SecurityTxt
+  url: well-known/8fit-security.txt
+- type: Website
+  url: https://8fit.com/
+- type: HelpCenter
+  url: https://8fit.zendesk.com/hc/en-us
+- type: Support
+  url: https://8fit.zendesk.com/hc/en-us
+- type: Blog
+  url: https://8fit.com/articles/
+- type: SignUp
+  url: https://8fit.com/signup/
+- type: Login
+  url: https://8fit.com/login/
+- type: TermsOfService
+  url: https://8fit.com/terms-of-service/
+- type: PrivacyPolicy
+  url: https://8fit.com/privacy/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
