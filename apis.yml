@@ -34,6 +34,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://8fit.com/', status: 301, note: 'declared website redirects to https://www.withings.com/en-us — a different registrable domain (8fit.com -> withings.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://images.ctfassets.net/90pc6zknij8o/QKISIkVdSR3h8d2wmF2tc/62dc9226c81562cffdd0a4418fe69904/web_link_image.png
 url: https://raw.githubusercontent.com/api-evangelist/8fit/refs/heads/main/apis.yml
 x-type: company
