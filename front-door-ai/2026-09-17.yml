@@ -1,0 +1,25 @@
+# Front Door AI Index — 8fit — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: 8fit
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: 8fit.com
+  final_host: www.withings.com
+  ownership: inherited
+  owner: 8fit
+  shares_host_with: null
+  inherited_from: www.withings.com
+  verdict: silent
+  score: null
+  host_score: 0
+  density: null
+  words: 1616
+  tiers:
+    agentic: 0
+    core: 0
+    model: 0
+  ambiguous: 11
+  top_terms:
+    smart: 11
