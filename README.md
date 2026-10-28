@@ -64,6 +64,50 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-8fit is a company surfaced as a portfolio company of creandum and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: creandum
+8fit is a consumer health and fitness application offering personalized home workout programs (HIIT, boxing, Pilates, yoga, and meditation), custom healthy meal and nutrition plans, and holistic wellness guidance built around sustainable habit-building rather than quick fixes. Founded in Berlin and surfaced in the API Evangelist network as a portfolio company of Creandum, 8fit reached more than 40 million downloads before being acquired by Withings (a Gilde Healthcare portfolio company) in February 2022. Withings announced the discontinuation of the standalone 8fit app effective June 26, 2026, folding its nutrition and activity content into the Withings app and Withings+ service. 8fit is a mobile/web consumer app and does not publish a public developer API; this profile captures its public web, security, and identity surface.
+
+**Areas:** Company · Consumer · Fitness · Health · Wellness · Nutrition · Mobile App
+
+## 8fit on APIs.io (historical record)
+
+Everything profiled for 8fit is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/8fit/](https://apis.io/providers/8fit/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [8Fit Domain Security](https://apis.io/security/8fit/8fit-domain-security/)
+- [8Fit Vulnerability Disclosure](https://apis.io/security/8fit/8fit-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://8fit.com/)
+- [Sign up](https://8fit.com/signup/)
+- [Support](https://8fit.zendesk.com/hc/en-us)
+- [Blog](https://8fit.com/articles/)
+- [Terms of service](https://8fit.com/terms-of-service/)
+- [Privacy policy](https://8fit.com/privacy/)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 8fit: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/8fit/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
