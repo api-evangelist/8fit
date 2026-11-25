@@ -82,8 +82,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [8Fit Domain Security](https://apis.io/security/8fit/8fit-domain-security/)
-- [8Fit Vulnerability Disclosure](https://apis.io/security/8fit/8fit-vulnerability-disclosure/)
+- [8fit Domain Security](https://apis.io/security/8fit/8fit-domain-security/)
+- [8fit Vulnerability Disclosure](https://apis.io/security/8fit/8fit-vulnerability-disclosure/)
 
 ## Where to find this API
 
